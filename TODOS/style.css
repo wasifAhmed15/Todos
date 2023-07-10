@@ -1,0 +1,28 @@
+input{
+  border-color:lightblue ;
+  width: 50%;
+  /* border-radius: 20px; */
+  margin: 3px;
+  padding: 10px;
+  border-left:0 ;
+  border-right:0 ;
+  border-top:0 ;
+  outline: none;
+  font-size: 1.2em;
+
+}
+
+input:focus{
+    border-left:0 ;
+  border-right:0 ;
+  border-top:0 ;
+  outline: none;
+}
+ul{
+    list-style: none;
+    text-align: center;
+    color: brown;
+    font-size: 1.3em;
+    
+
+}
